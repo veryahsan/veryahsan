@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veryahsan&label=Profile%20views&color=0e75b6&style=flat" alt="veryahsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veryahsan" alt="veryahsan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahsanme74616319" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanme74616319?logo=twitter&style=for-the-badge" alt="ahsanme74616319" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://portfolio-next-lac-psi.vercel.app/](https://portfolio-next-lac-psi.vercel.app/)
+
+- 📫 How to reach me **dev.ahsan.mehmood@gmail.com**
+
+- 📄 Know about my experiences [You can find on my portfolio](You can find on my portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsan-mehmood-4078b31ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsan-mehmood-4078b31ab/" height="30" width="40" /></a>
+<a href="https://twitter.com/ahsanme74616319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsanme74616319" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahsan-mehmood-4078b31ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-mehmood-4078b31ab" height="30" width="40" /></a>
+<a href="https://instagram.com/ahsanmehmood___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsanmehmood___" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
