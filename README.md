@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dev.ahsan.mehmood@gmail.com**
 
-- 📄 Know about my experiences [You can find on my portfolio](You can find on my portfolio)
+- 📄 Know about my experiences -> https://portfolio-next-lac-psi.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
