@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ahsanme74616319" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanme74616319?logo=twitter&style=for-the-badge" alt="ahsanme74616319" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-next-lac-psi.vercel.app/](https://portfolio-next-lac-psi.vercel.app/)
+- 👨‍💻 Explore my projects and experiences here [https://portfolio-next-lac-psi.vercel.app/](https://portfolio-next-lac-psi.vercel.app/)
 
 - 🌱 I’m currently learning **Machine Learning, AI agents, MCP, A2A**
 
 - 📫 How to reach me **dev.ahsan.mehmood@gmail.com**
-
-- 📄 Know about my experiences [You can find on my portfolio](You can find on my portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
