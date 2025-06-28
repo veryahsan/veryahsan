@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahsan Mehmood</h1>
-<h3 align="center">Senior Software Engineer (Ruby on Rails) with 3.5+ years of experience</h3>
+<h3 align="center">Senior Software Engineer (Ruby on Rails)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veryahsan&label=Profile%20views&color=0e75b6&style=flat" alt="veryahsan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veryahsan" alt="veryahsan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahsanme74616319" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanme74616319?logo=twitter&style=for-the-badge" alt="ahsanme74616319" /></a> </p>
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **dev.ahsan.mehmood@gmail.com**
 
-- 📄 Know about my experiences -> https://portfolio-next-lac-psi.vercel.app/
+- 📄 Know about my experiences [You can find on my portfolio](You can find on my portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
