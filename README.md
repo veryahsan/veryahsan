@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-next-lac-psi.vercel.app/](https://portfolio-next-lac-psi.vercel.app/)
 
+- 🌱 I’m currently learning **Machine Learning, AI agents, MCP, A2A**
+
 - 📫 How to reach me **dev.ahsan.mehmood@gmail.com**
 
 - 📄 Know about my experiences [You can find on my portfolio](You can find on my portfolio)
